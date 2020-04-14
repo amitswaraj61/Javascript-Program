@@ -1,5 +1,6 @@
 const distance=require('./Utility/Distance');
 var readline=require('readline-sync');
+console.log("welcome");
 var a=readline.question("enter a co-ordinate"+" ");
 var b=readline.question("enter b co-ordinate"+" ");
 function validate()
